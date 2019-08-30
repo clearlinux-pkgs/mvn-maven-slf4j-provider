@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-slf4j-provider
 Version  : 3.6.0
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/apache/maven/maven-slf4j-provider/3.6.0/maven-slf4j-provider-3.6.0.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/maven-slf4j-provider/3.6.0/maven-slf4j-provider-3.6.0.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/maven-slf4j-provider/3.6.0/maven-slf4j-provider-3.6.0.pom
